@@ -36,7 +36,7 @@ export default function about() {
         <Link href="https://github.com/KooSinB/next-shop">Go Github</Link>
       </div>
       <div className={styles.projectbox3}></div>
-      <h2>Let's Festival</h2>
+      <h2>Let&apos;s Festival</h2>
       <div className={styles.intro}>
         지역 축제 소개 사이트
         <br />

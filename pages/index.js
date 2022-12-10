@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Home</title>
+        <title>JYW&apos;s PortFolio</title>
       </Head>
       <div className={styles.maintitle}>
-        <h1>Project</h1>
+        <h1>Home</h1>
       </div>
       <div className={styles.main}>
         <div>

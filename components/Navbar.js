@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <div className={styles.header}>
       <h1 className={styles.blogname}>
-        <Link href="index.html">JYW&apos;s PortFolio</Link>
+        <Link href="/">JYW&apos;s PortFolio</Link>
       </h1>
 
       <nav className={styles.navbar}>

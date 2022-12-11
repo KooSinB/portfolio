@@ -41,7 +41,7 @@ export default function about() {
         지역 축제 소개 사이트
         <br />
         <br />
-        작업기간 : 2022.10.01 ~ 2022.12.11
+        작업기간 : 2022.08.23 ~ 2022.12.11
         <br />
         <br />
         <Link href="https://github.com/KooSinB/Let-s-Festival">Go Github</Link>

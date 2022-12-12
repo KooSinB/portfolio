@@ -40,7 +40,7 @@ export default function Navbar() {
               <a
                 className={styles.button}
                 href="https://github.com/KooSinB"
-                target="_blank"
+                target="blank"
               >
                 Go Github
               </a>

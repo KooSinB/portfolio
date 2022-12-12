@@ -21,7 +21,7 @@ export default function about() {
         작업기간 : 2022.10.01 ~ 2022.12.11
         <br />
         <br />
-        <Link href="https://github.com/KooSinB/was" target="blank">
+        <Link href="https://github.com/KooSinB/was" target="_blank">
           Go Github
         </Link>
       </div>
@@ -35,7 +35,7 @@ export default function about() {
         작업기간 : 2022.10.01 ~ 2022.12.11
         <br />
         <br />
-        <Link href="https://github.com/KooSinB/next-shop" target="blank">
+        <Link href="https://github.com/KooSinB/next-shop" target="_blank">
           Go Github
         </Link>
       </div>
@@ -48,7 +48,7 @@ export default function about() {
         작업기간 : 2022.08.23 ~ 2022.12.11
         <br />
         <br />
-        <Link href="https://github.com/KooSinB/Let-s-Festival" target="blank">
+        <Link href="https://github.com/KooSinB/Let-s-Festival" target="_blank">
           Go Github
         </Link>
       </div>

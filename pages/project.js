@@ -52,6 +52,20 @@ export default function about() {
           Go Github
         </Link>
       </div>
+
+      <div className={styles.projectbox4}></div>
+      <h2>Time Course</h2>
+      <div className={styles.intro}>
+        중부대학교 수강신청 개선 사이트
+        <br />
+        <br />
+        작업기간 : 2022.04.01 ~ 2022.06.15
+        <br />
+        <br />
+        <Link href="project" target="blank">
+          Go Github
+        </Link>
+      </div>
     </div>
   )
 }

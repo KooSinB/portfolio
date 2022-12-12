@@ -97,6 +97,23 @@
   box-shadow: rgb(0 0 0 / 20%) 0px 8px 12px;
 }
 
+.projectbox4 {
+  margin-top: 8rem;
+  width: 1000px;
+  height: 600px;
+  border-radius: 5%;
+  background-image: url('../public/time.png');
+  background-position: center center;
+  background-size: cover;
+  text-align: center;
+  object-fit: cover;
+  box-sizing: border-box;
+}
+
+.projectbox4:hover {
+  box-shadow: rgb(0 0 0 / 20%) 0px 8px 12px;
+}
+
 .intro {
   text-align: center;
   font-size: 1rem;
